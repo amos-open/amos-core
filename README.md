@@ -1,4 +1,4 @@
-# 🧱 AMOS Core v0.1 — Preview Release
+# COMING JUNE 2025 — AMOS Core v0.1 — Preview Release
 
 **AMOS Core** is the open data infrastructure layer for private markets.
 
@@ -25,7 +25,7 @@ This release includes:
 - 🧩 Core entity definitions: `funds`, `portfolio_companies`, `investments`, `crm_opportunities`, `financials`, `kpis`, `esg_metrics`
 - 🔗 Relationship mapping between entities (e.g. CRM → investment reconciliation)
 - 🧠 Conceptual support for open taxonomies, ID resolution, and API layers
-- 🌱 A layout ready to evolve into a working dbt / warehouse pipeline
+- 🌱 A layout ready to evolve into a working warehouse pipeline
 
 ---
 
