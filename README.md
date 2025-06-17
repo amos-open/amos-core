@@ -1,4 +1,4 @@
-# COMING JUNE 2025 — AMOS Core v0.1 — Preview Release
+# COMING NOVEMBER 2025 — AMOS Core v0.1 — Preview Release
 
 **AMOS Core** is the open data infrastructure layer for private markets.
 
